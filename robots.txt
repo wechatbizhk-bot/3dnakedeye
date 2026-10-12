@@ -1,0 +1,5 @@
+# https://3dnakedeye.com
+User-agent: *
+Allow: /
+
+Sitemap: https://3dnakedeye.com/sitemap.xml
